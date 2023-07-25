@@ -15,3 +15,4 @@ To access OpenStreetMap in our Next.js application, we will use Leaflet, an open
 - [React Leaflet](https://react-leaflet.js.org)
 - [Open Street Maps](https://www.openstreetmap.org)
 - [Leaflet](https://leafletjs.com)
+- [Map Assets](https://unpkg.com/browse/leaflet@1.9.4)
